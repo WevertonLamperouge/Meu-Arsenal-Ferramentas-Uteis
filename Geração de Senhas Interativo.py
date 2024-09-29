@@ -46,7 +46,7 @@ def main():
     print("""
     *************************************
     *       GEASS PassGenerator         *
-    *   Gere Senhas para BruteForce     *
+    *   Gere suas senhas para BruteForce*
     *************************************
     """)
 
